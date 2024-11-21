@@ -21,7 +21,7 @@ pip install pandas numpy scikit-learn
 3. Place the `medical_cost.csv` dataset in the same directory.
 4. Run the script:
 ```bash
-python healthcare_cost_prediction.py
+python main.py
 ```
 5. Enter details in the GUI and click "Predict" to get the healthcare cost estimate.
 
