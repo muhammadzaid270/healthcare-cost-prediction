@@ -29,6 +29,3 @@ python main.py
 - **Data**: Preprocessed with `LabelEncoder` for categorical data.
 - **Model**: Trained using `RandomForestRegressor` to predict healthcare costs.
 - **GUI**: Inputs are entered via Tkinter, and results are displayed in a new window.
-
-## License
-MIT License
