@@ -2,6 +2,9 @@
 
 This app predicts annual healthcare insurance costs based on user inputs like age, sex, BMI, number of children, smoking status, and region using a trained Random Forest model.
 
+![Healthcare Cost Prediction](screenshot1.PNG)
+![Healthcare Cost Prediction](screenshot2.PNG)
+
 ## Features
 - Predicts healthcare costs based on user input.
 - Provides an explanation of how each factor affects the cost.
